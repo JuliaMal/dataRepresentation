@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<library>
+    <book category = "technical books">
+    <ISBN>1292184043</ISBN>
+    <title>BTEC Nationals Construction Student Book</title>
+    <author>Susue Prescott</author>
+    </book>
+        
+    <book category = "technical books">
+    <ISBN>1510432248</ISBN>
+    <title>The City and Guilds Textbook</title>
+    <author>Peter Tanner</author>
+    </book>
+
+    <book category = "cookery books">
+    <ISBN>1784725846</ISBN>
+    <title>From the Oven to the Table</title>
+    <author>Diana Henry</author>
+    </book>
+        
+    <book category = "cookery books">
+    <ISBN>1409171930</ISBN>
+    <title>The Hairy Bikers' One Pot Wonders</title>
+    <author>Si King</author>
+    </book>
+
+</library>
